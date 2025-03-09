@@ -1,4 +1,3 @@
-```md
 # 🏋️‍♂️ IMC Calculator
 
 Este é um simples **calculador de IMC (Índice de Massa Corporal)** desenvolvido em Python. O projeto segue boas práticas de programação e pode ser executado diretamente no terminal.
