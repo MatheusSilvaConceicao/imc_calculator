@@ -1,16 +1,3 @@
----
-
-### **Melhorias Aplicadas**
-✅ **Correção de erros de entrada** → Verifica se altura e peso são maiores que zero.  
-✅ **Tratamento de exceções** → Impede que o programa quebre caso o usuário digite letras ou caracteres inválidos.  
-✅ **Código comentado e organizado** → Melhor compreensão e manutenção futura.  
-
----
-
-## **README para o GitHub**
-Agora, aqui está um README otimizado para atrair recrutadores e apresentar o projeto de forma profissional.
-
-### **README.md**
 ```md
 # 🏋️‍♂️ IMC Calculator
 
